@@ -180,7 +180,7 @@ graph TD
 
 -   Creative Developer & UI/UX Designer
 -   Specializing in immersive web experiences
--   **Portfolio:** [Coming Soon](https://ravisairockey.github.io/Game-Proto/)
+-   **Portfolio:** [Portal](https://ravisairockey.github.io/Game-Proto/)
 
 **Connect:**
 
