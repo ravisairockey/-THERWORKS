@@ -4,7 +4,7 @@
 <h3>A Modern Reimagining of the Classic Game</h3>
 <p>By Ravi Sai Vigneswara</p>
 
-<img src="https://via.placeholder.com/800x400/6c5ce7/ffffff?text=Liquid+Glass+Tetris" alt="Liquid Glass Tetris Screenshot">
+<img src="https://github.com/ravisairockey/Liquid_Matrix/blob/main/image.png/800x400/6c5ce7/ffffff?text=Liquid+Glass+Tetris" alt="Liquid Glass Tetris Screenshot">
 
 <p>
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
