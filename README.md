@@ -4,7 +4,7 @@
 <h3>A Modern Reimagining of the Classic Game</h3>
 <p>By Ravi Sai Vigneswara</p>
 
-<img src="https://raw.githubusercontent.com/ravisairockey/Liquid_Matrix/main/image.png" alt="Liquid Glass Tetris Screenshot" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;">
+<img src="https://raw.githubusercontent.com/ravisairockey/Liquid_Matrix/main/Ather.png" alt="Liquid Glass Tetris Screenshot" style="border-radius: 16px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2); max-width: 100%; height: auto;">
 
 <p>
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License">
